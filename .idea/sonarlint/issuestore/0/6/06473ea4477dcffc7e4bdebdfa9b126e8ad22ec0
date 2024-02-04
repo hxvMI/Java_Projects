@@ -1,0 +1,45 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ó­İüÿÿÿÿ
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¥·§øÿÿÿÿ
+p
+java:S2293Æ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾ä
+2
+java:S1643:"Use a StringBuilder instead.(ÚÜ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏáÏîûÿÿÿÿ
+P	java:S125	"<This block of commented-out lines of code should be removed.(ÑÛ¹
+@	java:S106 "+Replace this use of System.out by a logger.(­¦İˆ
+@	java:S106#"+Replace this use of System.out by a logger.(—áó†
+E	java:S106)"+Replace this use of System.out by a logger.(ú “ˆÿÿÿÿÿ
+?	java:S106,"+Replace this use of System.out by a logger.(ó¢ØI
+E	java:S106/"+Replace this use of System.out by a logger.(ã¸Ê¿ÿÿÿÿÿ
+E	java:S106;"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ
+B
+java:S1172?",Remove this unused method parameter "array".(¢æ¡¾
+T
+java:S1172G"9Remove these unused method parameters "array1", "array2".(ıÖ©Îüÿÿÿÿ
+E
+java:S1481^"*Remove this unused "count" local variable.(ïØ°ıÿÿÿÿ
+C
+java:S1481_"-Remove this unused "previous" local variable.(ä‡Ù¸
+P
+java:S1854Ø"9Remove this useless assignment to local variable "pivot".(ÛœÄ§
+A
+java:S1481Ø"*Remove this unused "pivot" local variable.(ÛœÄ§
+@
+java:S1659ğ"$Declare "array2" on a separate line.(¦ˆÖ ùÿÿÿÿ
+Q
+java:S1854€"5Remove this useless assignment to local variable "i".(„²˜úÿÿÿÿ
+B
+java:S1481€"&Remove this unused "i" local variable.(„²˜úÿÿÿÿ
+H
+java:S1068Æ"1Remove this unused "insertionSort" private field.(¾ä
+H
+java:S1144¸",Remove this unused private "compare" method.(¹¦üÿÿÿÿ
+E
+java:S1144¹")Remove this unused private "left" method.(È–¿Ùüÿÿÿÿ
+F
+java:S1144º"*Remove this unused private "right" method.(á®Âûÿÿÿÿ
+B
+java:S1144¼",Remove this unused private "isValid" method.(÷¶Û

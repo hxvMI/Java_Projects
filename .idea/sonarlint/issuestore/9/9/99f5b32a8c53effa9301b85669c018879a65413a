@@ -1,0 +1,66 @@
+
+[	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(è«¬ç
+[	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(º­ž±
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ýñ½øûÿÿÿÿ
+p
+java:S2293µ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü¶ø¿
+p
+java:S2293Þ"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹¨œˆ
+3
+java:S1643”"Use a StringBuilder instead.(úÿˆî
+3
+java:S1643¡"Use a StringBuilder instead.(ÚüƒÕ
+3
+java:S1643Ø"Use a StringBuilder instead.(·¢¶·
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úìÔT
+_
+java:S3973¼"HUse indentation to denote the code conditionally executed by this "for".(Ù¬öÊ
+d
+java:S3973Â"HUse indentation to denote the code conditionally executed by this "for".(±¦¨öüÿÿÿÿ
+_
+java:S3973Ë"HUse indentation to denote the code conditionally executed by this "for".(íÅˆÌ
+d
+java:S3973Ï"HUse indentation to denote the code conditionally executed by this "for".(þÑÍ×þÿÿÿÿ
+R
+java:S1854¢";Remove this useless assignment to local variable "hasLeft".(‘­×˜
+C
+java:S1481¢",Remove this unused "hasLeft" local variable.(‘­×˜
+W	java:S125°"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ
+Y
+java:S1854ú"=Remove this useless assignment to local variable "validLeft".(´¯¨óþÿÿÿÿ
+V
+java:S1161»":Add the "@Override" annotation above this method signature(Ýî‹âùÿÿÿÿ
+J
+java:S1481ú".Remove this unused "validLeft" local variable.(´¯¨óþÿÿÿÿ
+Q
+java:S1161š":Add the "@Override" annotation above this method signature(Á»›ê
+Q
+java:S1854©"5Remove this useless assignment to local variable "s".(ýà‹‰þÿÿÿÿ
+B
+java:S1481©"&Remove this unused "s" local variable.(ýà‹‰þÿÿÿÿ
+i
+java:S3776°"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ùÍ˜Ê
+F	java:S106á"+Replace this use of System.out by a logger.(¥Ô…µøÿÿÿÿ
+A	java:S106ã"+Replace this use of System.out by a logger.(ÀŽÜ¨
+F	java:S106ä"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+A	java:S106æ"+Replace this use of System.out by a logger.(ºÉÙ·
+A	java:S106ç"+Replace this use of System.out by a logger.(ÀŽÜ¨
+F	java:S106è"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+F	java:S106é"+Replace this use of System.out by a logger.(¥Ô…µøÿÿÿÿ
+A	java:S106ë"+Replace this use of System.out by a logger.(ÀŽÜ¨
+F	java:S106ì"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+A	java:S106ð"+Replace this use of System.out by a logger.(ÜòÞê
+A	java:S106ñ"+Replace this use of System.out by a logger.(ÀŽÜ¨
+F	java:S106ò"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+A	java:S106ø"+Replace this use of System.out by a logger.(æì„ñ
+A	java:S106ù"+Replace this use of System.out by a logger.(ÀŽÜ¨
+F	java:S106ú"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+A	java:S106û"+Replace this use of System.out by a logger.(Î²ÒÍ
+A	java:S106ý"+Replace this use of System.out by a logger.(ÀŽÜ¨
+F	java:S106þ"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+F	java:S106ÿ"+Replace this use of System.out by a logger.(¨ÀƒÝýÿÿÿÿ
+A	java:S106"+Replace this use of System.out by a logger.(ÀŽÜ¨
+F	java:S106‚"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+@
+java:S11448"+Remove this unused private "isRoot" method.(ôã¦>

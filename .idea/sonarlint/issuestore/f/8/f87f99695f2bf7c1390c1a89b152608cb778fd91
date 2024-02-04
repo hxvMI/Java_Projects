@@ -1,0 +1,16 @@
+
+o
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(×ªŽŽ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(úìÔT
+`
+java:S2095/"EUse try-with-resources or close this "Scanner" in a "finally" clause.(¦€–²ÿÿÿÿÿ
+V	java:S125#"<This block of commented-out lines of code should be removed.(—´Ó£þÿÿÿÿ
+P	java:S125&"<This block of commented-out lines of code should be removed.(×°ðA
+E	java:S1061"+Replace this use of System.out by a logger.(¨¶ÑÍþÿÿÿÿ
+?	java:S1062"+Replace this use of System.out by a logger.(±œæI
+@	java:S106:"+Replace this use of System.out by a logger.(Ý‡Ûˆ
+Q	java:S125Q"<This block of commented-out lines of code should be removed.(ö¶ß
+@
+java:S1128"+Remove this unused import 'prog06.SkipMap'.(ÚŽöD
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
